@@ -6,6 +6,6 @@ This app allows for the user to write and save notes to a JSON file. The deploye
 GitHub Repo:
 https://github.com/drauf727/ExpressNoteTaker
 
-GitHub Page:
+Render Page:
 
-https://drauf727.github.io/ExpressNoteTaker/
+https://expressnotetaker-wuzh.onrender.com/notes
