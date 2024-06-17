@@ -8,4 +8,4 @@ https://github.com/drauf727/ExpressNoteTaker
 
 Render Page:
 
-https://expressnotetaker-wuzh.onrender.com/notes
+https://expressnotetaker-wuzh.onrender.com/
